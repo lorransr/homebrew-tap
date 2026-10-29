@@ -1,6 +1,6 @@
 cask "chalkfy" do
-  version "0.1.1"
-  sha256 "64aafb8d809de255434daea00f352413d734338d3d9de423c4eda5c6be80846a"
+  version "0.1.2"
+  sha256 "45b69414650584d50d057f4a2a501e844acf7f1d4c15456fe48d8831fe54ac13"
 
   url "https://github.com/lorransr/chalkfy/releases/download/v#{version}/Chalkfy.zip"
   name "Chalkfy"
